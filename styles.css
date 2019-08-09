@@ -1,0 +1,92 @@
+.nav-section {
+    background-color: rgb(64, 125, 125);
+    text-align: center;
+    font-size: 30px;
+    /* border-style: hidden;
+    border-width: 5px;
+    width: auto; */
+    padding: 0px 10px;
+
+}
+
+.nav-li {
+    list-style-type: none;
+    display: inline;
+    color: white;
+    padding: 0px 10px;
+}
+
+.nav-a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    color: white;
+    background-image: url(http://augustday.bseipler.webfactional.com/background.jpg);
+    background-size: 50px;
+    font-size: 50px;
+    text-align: center;
+    border-style: hidden;
+    border-width: 5px;
+    padding: 45px 30px 45px 30px;
+
+}
+
+.about-section {
+    text-align: center;
+    background-color: lightslategray;
+
+
+
+}
+
+.about-title {
+    color: white;
+    font: 24px;
+}
+
+.about-me {
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+}
+
+.works-title {
+    color: white;
+    font-size: 24px;
+}
+
+.myworks-section {
+    text-align: center;
+    background-color: lightslategray;
+    padding: 50px 0px;
+}
+
+.landscape {
+    border-style: solid;
+    border-color: black;
+
+}
+
+.pool {
+    border-style: solid;
+    border-color: black;
+}
+
+.dryscape {
+    border-style: solid;
+    border-color: black;
+}
+
+.service-section {
+    text-align: center;
+}
+
+.service-list {
+    display: inline;
+}
+
+.contactme-section {
+    text-align: center;
+}
